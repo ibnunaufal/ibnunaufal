@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ibnunaufal
+- 👋 Hi, I’m Naufal
 - 👀 I’m interested in Mobile Developement
-- 🌱 I’m currently learning React Native both on Android and iOS
-- 💞️ I’m looking to collaborate on RN Project
-- 📫 How to reach me t.me/ibnu_naufall
+- 🌱 I’m currently learning React Native, Swift, and Kotlin
+- ⌛️ Experienced > a year on Mobile Developement
+- 📫 Wanna collaborate? Find me on [Telegram](https://t.me/ibnu_naufall)
 
 <!---
 ibnunaufal/ibnunaufal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
