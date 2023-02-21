@@ -10,8 +10,8 @@
 
 - 👀 I’m interested in Mobile Developement
 - 🌱 I’m currently learning React Native, Swift, and Kotlin
-- ⌛️ Experienced > a year on Mobile Developement
-- 📫 Wanna collaborate? Find me on [Telegram](https://t.me/ibnu_naufall)
+- ⌛️ Experienced 2 year++ on Mobile Developement
+- 📫 Wanna collaborate? Find me on [Telegram](https://t.me/ibnu_naufall), dont forget to use hastag #collaborate
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
