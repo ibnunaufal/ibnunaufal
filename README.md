@@ -8,7 +8,7 @@
 <br>
 
 - 👀 I'm interested in Mobile development
-- 🌱 I’m currently learning React Native, Flutter, Swift, and Kotlin
+- 🌱 I’m currently learning Flutter, Swift, and Kotlin
 - 🧑🏻‍💻 Been working on Kotlin, Swift, React(JS/Native) and Ionic
 - ⌛️ Experienced 2 year++ on Mobile development
 - 📫 Wanna collaborate? Find me on [Telegram](https://t.me/ibnu_naufall), don't forget to start the chat using hashtag #collaborate to differentiate whether it was spam or a truly collaborative message
@@ -41,6 +41,7 @@ Course or certification that I learned is [SwiftUI Masterclass By Robert Petras]
 - [Tic Tac Toe](https://github.com/ibnunaufal/Swift-Tic-Tac-Toe)
 - [SwiftUI WKWebview](https://github.com/ibnunaufal/Swift-WebView)
 - [SwiftUI CRUD Operation](https://github.com/ibnunaufal/SwiftUI-Crud-Operation)
+- [Touchdown Marketplace](https://github.com/ibnunaufal/swift-touchdown-marketplace)
 
 #### Flutter
 Course or certification that I learned is [Flutter & Dart Completion Guid By Academind](https://www.udemy.com/share/101rfI3@6JnPhmAbq72CZbtoEkmYITDOyRlIKL8iWJUTud-pHoCaQO4SYW88GmlLspeIs6Knhg==/), and here the certificate(SOON) that I got.
