@@ -70,7 +70,7 @@ Here is the list of several Projects that I've learned before.
   - [Touchdown Marketplace](https://github.com/ibnunaufal/swift-touchdown-marketplace)
   
   #### Flutter
-  Course or certification that I learned is [Flutter & Dart Completion Guid By Academind](https://www.udemy.com/share/101rfI3@6JnPhmAbq72CZbtoEkmYITDOyRlIKL8iWJUTud-pHoCaQO4SYW88GmlLspeIs6Knhg==/), and here the certificate(SOON) that I got.
+  Course or certification that I learned is [Flutter & Dart Completion Guide By Academind](https://www.udemy.com/share/101rfI3@6JnPhmAbq72CZbtoEkmYITDOyRlIKL8iWJUTud-pHoCaQO4SYW88GmlLspeIs6Knhg==/), and here the certificate(SOON) that I got.
   - [Flutter First App](https://github.com/ibnunaufal/first_app_flutter)
   - [Quiz App](https://github.com/ibnunaufal/flutter_quiz_app)
   - [Expenses App](https://github.com/ibnunaufal/flutter_expenses_app)
@@ -79,7 +79,6 @@ Here is the list of several Projects that I've learned before.
 ---
 
 ### 👁👁 Profile visit count
-[![](https://visitcount.itsvg.in/api?id=ibnunaufal&icon=0&color=0)](https://visitcount.itsvg.in)
 ![Visitor Count](https://profile-counter.glitch.me/ibnunaufal/count.svg)
 <!---
 ibnunaufal/ibnunaufal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
